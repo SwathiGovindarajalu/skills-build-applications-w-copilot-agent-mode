@@ -8,7 +8,7 @@ INSTALLED_APPS = [
 DATABASES = {
     'default': {
         'ENGINE': 'djongo',
-        'NAME': 'octofit',
+        'NAME': 'octofit_db',
     }
 }
 
